@@ -45,9 +45,9 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" [R.A] BOT Menu V.3  􀔃􀄆red check mark􏿿
+helpMessage =""" [R.A] BOT Menu V.3  􀔃􀄆Black-KRT􏿿
 
-􀔃􀅕red arrow right􏿿 Command Public
+􀔃􀅕Black-KRT􏿿 Command Public
 [Me]       Cek Akun Sendiri
 [My mid]   Cek Akun Mid
 [Bot?]     Cek Akun Bot
@@ -66,7 +66,7 @@ helpMessage =""" [R.A] BOT Menu V.3  􀔃􀄆red check mark􏿿
 [Open Url]  Membuka Url Group
 [Close Url] Menutup Url Group
 
-􀔃􀅕red arrow right􏿿 Command Private
+􀔃􀅕Black-KRT􏿿 Command Private
 [Set group] Menggatur Privasi Grup
 [Banned @] Bann Target 
 [Unban @]  Unbann Target
@@ -79,7 +79,7 @@ helpMessage =""" [R.A] BOT Menu V.3  􀔃􀄆red check mark􏿿
 [Bye _namabot]  Leave Bot
 """
 
-Setgroup =""" Privasi Menu V.1 􀔃􀄆red check mark􏿿
+Setgroup =""" Privasi Menu V.1 􀔃􀄆Black-KRT􏿿
 
 [Protect Group]
 -- Gr on/off
@@ -103,8 +103,8 @@ Gmid = ko.getProfile().mid
 Hmid = ke.getProfile().mid
 Imid = ku.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u33d60593ad472ed11e7907fb1daee6ae"]
-admin=["u33d60593ad472ed11e7907fb1daee6ae"]
+Bots=[u68c0341ad4fc7e5735cd7b525da9145e,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u1cd577e54eeca5c2ec0eeee1061f71e"]
+admin=["u1cd577e54eeca5c2ec0eeee1061f71e"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -121,15 +121,15 @@ wait = {
     "dblack":False,
     "clock":False,
     "cName":" ",
-    "cName2":"[R.A]_SX2 ",
-    "cName3":"[R.A]_SX3 ",
-    "cName4":"[R.A]_SX4 ",
-    "cName5":"[R.A]_SX5 ",
-    "cName6":"[R.A]_SX6 ",
-    "cName7":"[R.A]_SX7 ",
-    "cName8":"[R.A]_SX8 ",
-    "cName9":"[R.A]_SX9 ",
-    "cName10":"[R.A]_SX10 ",
+    "cName2":"{Black-KRT]_2 ",
+    "cName3":"[Black-KRT]_3 ",
+    "cName4":"[Black-KRT]_4 ",
+    "cName5":"[Black-KRT]_5 ",
+    "cName6":"[Black-KRT]_6 ",
+    "cName7":"[Black-KRT]_7 ",
+    "cName8":"[Black-KRT]_8 ",
+    "cName9":"[Black-KRT]_9 ",
+    "cName10":"[Black-KRT]_10 ",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
