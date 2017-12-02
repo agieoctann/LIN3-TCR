@@ -45,9 +45,9 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" [R.A] BOT Menu V.3  􀔃􀄆red check mark􏿿
+helpMessage =""" [A.O] BOT Menu V.3  􀔃􀄆Black-KRT􏿿
 
-􀔃􀅕red arrow right􏿿 Command Public
+􀔃􀅕Black-KRT􏿿 Command Public
 [Me]       Cek Akun Sendiri
 [My mid]   Cek Akun Mid
 [Bot?]     Cek Akun Bot
@@ -66,7 +66,7 @@ helpMessage =""" [R.A] BOT Menu V.3  􀔃􀄆red check mark􏿿
 [Open Url]  Membuka Url Group
 [Close Url] Menutup Url Group
 
-􀔃􀅕red arrow right􏿿 Command Private
+􀔃􀅕Black-KRT􏿿 Command Private
 [Set group] Menggatur Privasi Grup
 [Banned @] Bann Target 
 [Unban @]  Unbann Target
@@ -79,7 +79,7 @@ helpMessage =""" [R.A] BOT Menu V.3  􀔃􀄆red check mark􏿿
 [Bye _namabot]  Leave Bot
 """
 
-Setgroup =""" Privasi Menu V.1 􀔃􀄆red check mark􏿿
+Setgroup =""" Privasi Menu V.1 􀔃􀄆Black-KRT􏿿
 
 [Protect Group]
 -- Gr on/off
@@ -103,8 +103,8 @@ Gmid = ko.getProfile().mid
 Hmid = ke.getProfile().mid
 Imid = ku.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u33d60593ad472ed11e7907fb1daee6ae"]
-admin=["u33d60593ad472ed11e7907fb1daee6ae"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u1cd577e54eeca5c2ec0eeee1061f71e"]
+admin=["u1cd577e54eeca5c2ec0eeee1061f71e"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -121,19 +121,19 @@ wait = {
     "dblack":False,
     "clock":False,
     "cName":" ",
-    "cName2":"[R.A]_SX2 ",
-    "cName3":"[R.A]_SX3 ",
-    "cName4":"[R.A]_SX4 ",
-    "cName5":"[R.A]_SX5 ",
-    "cName6":"[R.A]_SX6 ",
-    "cName7":"[R.A]_SX7 ",
-    "cName8":"[R.A]_SX8 ",
-    "cName9":"[R.A]_SX9 ",
-    "cName10":"[R.A]_SX10 ",
+    "cName2":"Black-KRT2 ",
+    "cName3":"Black-KRT3 ",
+    "cName4":"Black-KRT4 ",
+    "cName5":"Black-KRT5 ",
+    "cName6":"Black-KRT6 ",
+    "cName7":"Black-KRT7 ",
+    "cName8":"Black-KRT8 ",
+    "cName9":"Black-KRT9 ",
+    "cName10":"Black-KRT10 ",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
-    "Protectgr":False,
+    "Protect":False,
     "Protectjoin":False,
     "Protectcancl":False,
     "protectionOn":True,
